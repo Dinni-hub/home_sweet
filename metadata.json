@@ -1,0 +1,6 @@
+{
+  "name": "Home Sweet Home - Kelola Keuangan",
+  "description": "Aplikasi pengelola keuangan pribadi dengan 5 kategori utama, rekap budget, wishlist impian, instrumen investasi, dan penyimpanan lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
